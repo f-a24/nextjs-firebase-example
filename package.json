@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-firebase-example",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "engines": {
+    "node": "10"
+  },
+  "scripts": {
+    "dev": "next src/app",
+    "build": "next build src/app",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.0",
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.6",
+    "@types/styled-components": "^5.1.0",
+    "firebase-tools": "^8.1.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.11",
+    "firebase-admin": "^8.10.0",
+    "firebase-functions": "^3.6.0",
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.0",
+    "styled-reset": "^4.1.3"
+  }
+}
