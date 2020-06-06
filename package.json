@@ -27,7 +27,7 @@
     "apollo-client": "^2.6.10",
     "apollo-link-http": "^1.5.17",
     "apollo-link-schema": "^1.2.5",
-    "apollo-server-micro": "^2.13.1",
+    "apollo-server-micro": "^2.14.2",
     "firebase-admin": "^8.12.1",
     "firebase-functions": "^3.6.1",
     "graphql": "^15.0.0",
